@@ -1,8 +1,8 @@
 # Site settings
-title: Bhavesh
-email: bk150184@gmail.com
+title: IndigiAutolabs
+email: indigiautolabs@gmail.com
 url: https://bhavk26.github.io/Project_Portfolio/
-description: "Associate Implementation Analyst"
+description: "Tech Consultancy Services"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Bhavesh's
+footer: IndigiAutolabs's
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
